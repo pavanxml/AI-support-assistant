@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset password from Settings > Security."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase."
+  },
+  {
+    "title": "Update Email Address",
+    "content": "You can update your email address in the Profile section of your account dashboard."
+  },
+  {
+    "title": "Subscription Cancellation",
+    "content": "To cancel your subscription, go to Billing > Subscriptions and click on 'Cancel Plan'."
+  },
+  {
+    "title": "Supported Payment Methods",
+    "content": "We support credit cards (Visa, Mastercard, Amex), PayPal, and Google Pay."
+  },
+  {
+    "title": "Upgrade to Pro",
+    "content": "To upgrade your account to the Pro tier, visit the Pricing page or go to Settings > Billing and click 'Upgrade Plan'."
+  },
+  {
+    "title": "Find Receipt or Invoice",
+    "content": "All past receipts and invoices can be downloaded directly from the Billing > Payment History tab."
+  },
+  {
+    "title": "Delete Account",
+    "content": "If you wish to permanently delete your account, you can do so at Settings > Privacy > Delete Account. This action is irreversible."
+  },
+  {
+    "title": "Two-Factor Authentication (2FA)",
+    "content": "You can secure your account by enabling Two-Factor Authentication (2FA) under Settings > Security."
+  },
+  {
+    "title": "Contact Human Support",
+    "content": "If the automated assistant cannot help you, please email our support team directly at support@example.com."
+  }
+]
